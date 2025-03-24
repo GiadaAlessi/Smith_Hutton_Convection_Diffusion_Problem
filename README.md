@@ -1,7 +1,7 @@
 # Numerical Resolution of the Smith-Hutton Convection-Diffusion Problem
 
 ## Description
-This project presents a numerical study of the Smith-Hutton convection-diffusion problem, where the steady-state transport of a scalar property \( \phi \) is investigated under a predefined velocity field. The numerical solution is obtained using the finite volume method with both Upwind Difference Scheme (UDS) and Central Difference Scheme (CDS) to compare their performance in terms of stability and accuracy.
+This project presents a numerical study of the Smith-Hutton convection-diffusion problem, where the steady-state transport of a scalar property Φ is investigated under a predefined velocity field. The numerical solution is obtained using the finite volume method with both Upwind Difference Scheme (UDS) and Central Difference Scheme (CDS) to compare their performance in terms of stability and accuracy.
 
 Two versions of the code are provided:
 - **`Smith_Hutton.cpp`** — Original version of the code.
